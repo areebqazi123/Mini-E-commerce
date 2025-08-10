@@ -38,28 +38,23 @@ A modern, full-stack e-commerce application built with React and Node.js, featur
 ## 🖼️ Screenshots
 
 ### Homepage & Product Catalog
-<!-- Add homepage screenshot here -->
-*Product catalog with search and filtering capabilities*
+<img width="1916" height="876" alt="image" src="https://github.com/user-attachments/assets/aef86a85-ed2a-4a93-899d-16dcd6a36aa2" />
 
 ### Product Details
-<!-- Add product detail page screenshot here -->
-*Detailed product view with image gallery and add to cart*
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/46d7bc3e-69bf-4a72-bdf9-e725a0658223" />
 
 ### Shopping Cart
-<!-- Add shopping cart screenshot here -->
-*Interactive shopping cart with quantity controls*
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/9248d370-507f-4f79-878a-cfc871cebe48" />
 
 ### Checkout Process
-<!-- Add checkout page screenshot here -->
-*Secure checkout with Stripe payment integration*
+<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/f4558190-963d-4d47-8515-4307a7161255" />
 
 ### Admin Dashboard
-<!-- Add admin dashboard screenshot here -->
-*Comprehensive admin panel for managing products and orders*
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/e05a20af-8d92-41df-aac9-8ac080b6b984" />
 
 ### Order Management
-<!-- Add order management screenshot here -->
-*Real-time order tracking and status updates*
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/bccd1c84-1797-4d4b-918d-dd2a684cccf7" />
+
 
 ## 🚀 Live Demo
 
