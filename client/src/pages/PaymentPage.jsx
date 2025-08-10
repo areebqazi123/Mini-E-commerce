@@ -4,8 +4,8 @@ import { Elements, CardElement, useStripe, useElements } from '@stripe/react-str
 import api from '../api/axios';
 import { useNavigate } from 'react-router-dom';
 
-// Your publishable key
-const stripePromise = loadStripe('pk_test_51RufIfQoXXKR220NLmoc9Lsskoy6UjR3VvdD70BlE7aZEkUWusRMJvz3siZKPZTgL4lkmYx1rN3RnXZBYeoNWKLK00azJafYJF');
+const stripePublishableKey = import.meta.env.VITE_STRIPE_PUBLISHABLE_KEY;
+const stripePromise = loadStripe(stripePublishableKey);
 
 function CheckoutForm() {
   const stripe = useStripe();
